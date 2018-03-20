@@ -1,5 +1,5 @@
 # PriceMedicinesCol
-It is a aplication about price comparison of medicines. Basically the user write the medicine name, the app return the choices to it and a indicator of price of each one.
+It is a aplication about price comparison of medicines. Basically the user write the medicine name, the app return the choices and a indicator of price of each one.
 
 It is an application in R/Shiny and it is loaded a follow link (I suggest to see it from a devices mobile) : https://goo.gl/CphnGU 
 
